@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Vincent Lemaire
+tagline: Stay Hungry. Stay Foolish. (S. Jobs)
 ---
 {% include JB/setup %}
 
